@@ -1,3 +1,10 @@
+NAMA : Aditya Purnama Herlambang
+NIM  : 362358302009
+
+
+
+
+
 TAMPILAN AWAL
 
 ![Screenshot 2024-10-24 161939](https://github.com/user-attachments/assets/91a3a738-2bd3-4d47-818b-2b7fa8a7b3d7)
